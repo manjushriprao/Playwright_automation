@@ -1,6 +1,10 @@
-#This project contains UI and API automation using Playwright with JavaScript.
+**This project contains UI and API automation using Playwright with JavaScript.**
 
-#How to Run Tests  
+**Application Under Test**
+UI: https://demoqa.com/
+API: https://reqres.in/
+
+**How to Run Tests**  
 
 Install dependencies: npm install  
 
@@ -10,7 +14,7 @@ Run UI Test: npx playwright test ui-test.spec.js --headed
 
 Run API Test: npx playwright test api-test.spec.js  
 
-#To generate and view report:  
+**To generate and view report** 
 
 npx playwright test --reporter=html  
 
