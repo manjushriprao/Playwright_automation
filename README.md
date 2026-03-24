@@ -1,8 +1,10 @@
 **This project contains UI and API automation using Playwright with JavaScript.**
 
-**Application Under Test**
-UI: https://demoqa.com/
-API: https://reqres.in/
+**Application Under Test**  
+
+UI: https://demoqa.com/  
+
+API: https://reqres.in/  
 
 **How to Run Tests**  
 
